@@ -16,6 +16,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+"Just the place for a Snark!" the Bellman cried,     
+   As he landed his crew with care;    
+Supporting each man on the top of the tide.     
+   By a finger entwined in his hair.      
+"Just the place for a Snark! I have said it twice:   
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -44,3 +50,21 @@ Had got no business to be there
       
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+O my Luve is like a red, red rose.   
+   That’s newly sprung in June;    
+O my Luve is like the melody    
+   That’s sweetly played in tune.   
+So fair art thou, my bonnie lass,    
+   So deep in luve am I;    
+And I will luve thee still, my dear,    
+   Till a’ the seas gang dry.    
+Till a’ the seas gang dry, my dear,    
+   And the rocks melt wi’ the sun;    
+I will love thee still, my dear,    
+   While the sands o’ life shall run.    
+And fare thee weel, my only luve!    
+   And fare thee weel awhile!    
+And I will come again, my luve,    
+   Though it were ten thousand mile.  
+   
