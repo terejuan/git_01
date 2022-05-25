@@ -1,7 +1,7 @@
 ---
 title: "git_01"
 author: "Teresa Juan"
-date: "Fall semester"
+date: "summer semester"
 output: html_document
 ---
 
